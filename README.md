@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on soem Tech Companies
 - 📫 How to reach me adityapadhi.edu.05@gmail.com
 - https://www.linkedin.com/in/aditya-padhi-7aa941278 :=my Linkdin profile
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- .java
+- 
 
 <!---
 Aditya-Padhi-cyber/Aditya-Padhi-cyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
